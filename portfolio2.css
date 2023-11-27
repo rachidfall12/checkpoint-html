@@ -40,11 +40,10 @@ ul a{
     position: relative; top: 0px;
 }
 /* Styles pour la vidéo dans la section ABOUT */
-#ABOUT video{
+#ABOUT iframe{
     position: relative;left: 800px;
     margin: -20px;
-    width: 250px;
-    height: 250px;
+    position: relative;top: 20px;
 }
 #ABOUT audio{
     position: relative;bottom: 70px;
